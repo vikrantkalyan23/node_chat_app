@@ -1,0 +1,16 @@
+{
+  "name": "node_chat_app",
+  "version": "1.0.0",
+  "description": "Chat  Application using Nodejs Socket.io and Caching With Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vikrant Kalyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}

@@ -5,5 +5,7 @@ Chat  Application using Nodejs Socket.io and Caching With Redis
 
 npm init -y
 
+npm install express socket.io
+
 
 
