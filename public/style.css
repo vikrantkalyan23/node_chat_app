@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#chat-container {
+    text-align: center;
+}
+.hidden {
+    display: none;
+}
+#messages {
+    border: 1px solid #ccc;
+    height: 300px;
+    overflow-y: auto;
+    margin: 10px 0;
+}
+#message {
+    width: 100%;
+    padding: 10px;
+}
